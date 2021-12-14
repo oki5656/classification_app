@@ -7,7 +7,7 @@ git clone https://github.com/ikuto056/classification_app.git
 
 ## streamlit application
 
-![alt](https://github.com/ikuto056/classification_app/blob/main/app/images/classification_app_image.png)
+![alt](https://github.com/oki5656/classification_app/blob/main/app/images/classification_app_image.png)
 1:start up the streamlit application using this command  
 ```
 streamlit run app.py
